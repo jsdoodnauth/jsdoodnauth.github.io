@@ -1,2 +1,2 @@
 # jsdoodnauth.github.io
-Personal repo site
+Github pages site
